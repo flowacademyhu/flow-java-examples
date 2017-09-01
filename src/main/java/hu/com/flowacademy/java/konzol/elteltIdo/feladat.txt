@@ -1,0 +1,6 @@
+/*
+ * Feladat: Szamitsa ki a parancssoron kapott ket idopont (ora perc ora perc) kozott
+ * eltelt idot es irja ki a konzolra (ora:perc formaban).
+ *
+ * Negativ eltelt ido ertelmezett.
+ */

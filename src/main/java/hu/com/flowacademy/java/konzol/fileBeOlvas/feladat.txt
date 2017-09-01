@@ -1,0 +1,1 @@
+Készítsen egy olyan programot, amely, egy szöveg file tartalmát kiírja a konzolra! A file nevét teljes elérési útvonallal kérje be a felhasználótól.

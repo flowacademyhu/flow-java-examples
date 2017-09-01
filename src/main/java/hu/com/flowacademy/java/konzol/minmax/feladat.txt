@@ -1,0 +1,1 @@
+Készítsen egy olyan programot, amely véletlen számokkal tölt fel egy 100 elemű egész típusú tömböt, majd megkeresi és kiírja a konzolra a tömbben levő legnagyobb és legkisebb számot!

@@ -1,0 +1,1 @@
+Készítsen egy olyan programot, amely az a,b,c számhármasról eldönti, hogy lehetnek-e egy háromszög oldalai!

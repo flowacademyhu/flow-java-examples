@@ -1,0 +1,7 @@
+/* Feladat:
+ * - Irja ki a parancssori parametereket a konzolra.
+ * - Ugyanezt forditott sorrenben.
+ * - Irja ki a parancssori parametereket ugy, hogy az elso sorba csak az elsot,
+ *   a masodikba az elso kettot szokozzel elvalasztva, a harmadikba az elso harmat,
+ *   stb.
+ */
