@@ -1,0 +1,1 @@
+Készíts programot, amely kiszámítja és kiírja a képernyőre a 30 fokos szög szögfüggvényeit!

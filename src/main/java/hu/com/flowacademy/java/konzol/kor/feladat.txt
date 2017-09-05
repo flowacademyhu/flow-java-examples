@@ -1,0 +1,1 @@
+ Készíts programot, amely kiszámítja és kiírja az 5 egység sugarú kör kerületét és területét!

@@ -1,0 +1,1 @@
+Készíts programot, amely két adott sztringet megjelenít, az egyiket kisbetűs, a másikat nagybetűs formában!

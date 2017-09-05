@@ -1,0 +1,1 @@
+Készíts programot, amely bekér egy számot, majd kiírja, hogy osztható-e 2-vel vagy 3-mal!

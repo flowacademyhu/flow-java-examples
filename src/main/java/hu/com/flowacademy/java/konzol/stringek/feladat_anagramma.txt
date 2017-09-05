@@ -1,0 +1,1 @@
+Készíts programot, amely az "Indul a görög aludni" sztring tartalmát megfordítja és kiírja!

@@ -1,0 +1,2 @@
+Készíts programot, amely 10-től 20-ig generál két véletlen egész számot! Majd kiírja a két szám összegét, valamint szorzatát.
+

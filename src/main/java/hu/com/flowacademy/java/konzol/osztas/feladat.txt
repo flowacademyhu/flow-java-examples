@@ -1,0 +1,1 @@
+Készíts programot, ami bemutatja a normál és a maradékos osztás közötti különbséget.
