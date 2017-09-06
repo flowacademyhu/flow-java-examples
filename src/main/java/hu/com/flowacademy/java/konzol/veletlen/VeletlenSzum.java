@@ -3,7 +3,7 @@ package hu.com.flowacademy.java.konzol.veletlen;
 
 import java.util.Random;
 
-public class Veletlen {
+public class VeletlenSzum {
 
     public static void randomSzamok() {
         Random random = new Random();

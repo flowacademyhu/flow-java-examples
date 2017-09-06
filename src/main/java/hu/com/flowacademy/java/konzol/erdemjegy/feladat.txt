@@ -1,0 +1,1 @@
+Készíts programot, ami egy számformátumban megadott érdemjegyet szövegesen jelenít meg! Az érdemjegyet a billentyűzeten kell bevinni! (pl. 1 = elégtelen; 2 = elégséges; stb.)

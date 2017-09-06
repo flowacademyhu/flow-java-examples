@@ -15,8 +15,14 @@ public class Oszthato23 {
         return eredmeny;
     }
 
+    public static boolean oszthatoHarommal(int szam){
+        return szam % 3 ==0;
+
+    }
+
     public static void main(String[] args) {
         int szam = Integer.parseInt(args[0]);
-        oszthatoKettovel(szam);
+        System.out.println("A " + szam + " osztható kettövel: " + oszthatoKettovel(szam));
+        System.out.println("A " + szam + " osztható hárommal: " + oszthatoHarommal(szam));
     }
 }
