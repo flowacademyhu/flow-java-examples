@@ -1,0 +1,1 @@
+Készíts programot, amely egymás alá hússzor kiírja a "Jó napot kívánok!" szöveget!
